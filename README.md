@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ifhy1
 - 👀 I’m interested in learning a new skill
-- 🌱 I’m currently learning at AltSchool Africa School of Software Engineering class of 2022
+- 🌱 I’m currently learning at AltSchool Africa School of Software Engineering 
 - 💞️ I’m looking to collaborate on open source projects and other entry-level opportunities
 - 📫 How to reach me @ihediohaifeyinwagmail.com
 
